@@ -19,7 +19,8 @@ const useStyles = makeStyles({
 	cardMetadata: {
 		display: 'flex',
 		alignItems: 'center',
-		marginTop: 15
+		marginTop: 15,
+		flexWrap: 'wrap'
 	},
 	username: {
 		color: '#5635b2',
