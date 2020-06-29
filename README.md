@@ -1,4 +1,4 @@
-### Frontend for Tweeter - a twitter-lite clone
+## Frontend for Tweeter - a twitter-lite clone
 This project uses React to create a UI to fetch tweets and create new ones. Users are hardcoded and can be switched via the navbar drop-down.
 
 ## Installation
